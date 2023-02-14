@@ -1,2 +1,32 @@
-
 /* Your CSS Code here. */
+table{
+	width: 100%
+}
+th{
+	text-align: left;
+}
+td{
+	text-align: right;
+}
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+
+.r1{
+	background: indianred;
+	color: white;
+}
+.r2{
+	background: brickred;
+	color: white;
+}
+.r3{
+	
+}
+.r4{
+	
+}
+
+
